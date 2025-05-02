@@ -20,6 +20,8 @@ ENV/
 *.h5
 *.tflite
 *.onnx
+models/fasterrcnn_openvino_model
+models/yolov8n_openvino_model
 
 # Dataset files
 *.zip
