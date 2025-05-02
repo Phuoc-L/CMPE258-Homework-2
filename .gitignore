@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# PyTorch / TensorFlow models
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.tflite
+*.onnx
+
+# Dataset files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.csv
+*.jsonl
+*.record
+*.npy
+*.npz
+
+# Label files
+*.xml
+*.json
+
+# Logs and debugging
+*.log
+logs/
+debug/
+
+# Output / results
+runs/
+results/
+inference/
+
+# IDE/editor-specific
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
